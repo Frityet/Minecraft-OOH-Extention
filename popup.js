@@ -16,5 +16,5 @@ function toggle(){
 	var tog = JSON.parse(localStorage.play_audio);
 	tog = !tog;
 	localStorage.play_audio = tog;
-	document.getElementById("btnToggle").value = "Toggle: " + localStorage.play_audio.toUpperCase();
+	document.getElementById("btnToggle").value = "OOH?: " + localStorage.play_audio.toUpperCase();
 }
