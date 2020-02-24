@@ -1,9 +1,9 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-    "name": "Oof!",
-    "version": "1.1.1",
-    "description": "Plays the Roblox oof sound on tab close!",
+    "name": "Ooh!",
+    "version": "1.0.0",
+    "description": "Plays the Minecraft ooh sound on tab close! Credit to the Roblox OOF extention!",
     "permissions": ["tabs", "storage"],
     "background": {
       "scripts": ["main.js"],
