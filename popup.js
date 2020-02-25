@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
         localStorage.play_audio = "false";
     }
 	
-	btn.value = "Toggle: " + localStorage.play_audio.toUpperCase();
+	btn.value = "OOH?: " + localStorage.play_audio.toUpperCase();
 	
 });
 
