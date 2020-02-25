@@ -2,9 +2,13 @@
     background-color: rgb(49, 189, 44);
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 100px 128px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size:  64px;
+   background-image:url('https://i.imgur.com/k20h1b5.jpg');
+   font-family: 'MinecraftiaRegular';
+   font-weight: normal;
+   font-style: normal;
 }
